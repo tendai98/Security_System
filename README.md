@@ -82,9 +82,3 @@
 2. Configure the Wi-Fi settings in the code.
 3. Install the required libraries for the SONAR sensor.
 4. Flash the ESP8266 with the sketch, and it will create a Wi-Fi access point and serve proximity sensor data.
-
-## Notes
-- The ESP32 access panel provides access control through both RFID and Bluetooth communication, and it can display sensor data from the server.
-- The multi-SONAR sensor provides proximity data through a web server, indicating the presence of objects or individuals in proximity to the sensors.
-
-Please ensure that you have the required hardware and libraries to run these projects.
