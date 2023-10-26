@@ -1,6 +1,4 @@
-# Security System README
-
-This README provides an overview of the Security System, a project that employs multiple ultrasonic sensors and SONAR technology. The system includes two main components, each with its own functionality:
+# Security System
 
 ## Project Structure
 
