@@ -1,6 +1,6 @@
 # Security System
 
-## Vide Demos
+## Video Demos
 
 - [RFID Test Run](https://www.youtube.com/watch?v=8FeVaFiyJQ0&list=PL8v3UBncuP_4h76pBkSLKAA4D0J7pWbbe&ab_channel=Tendai)
 - [Security System Project - RFID Demo 2](https://www.youtube.com/watch?v=SbdR9_ILBMM&list=PL8v3UBncuP_4h76pBkSLKAA4D0J7pWbbe&index=2&ab_channel=Tendai)
